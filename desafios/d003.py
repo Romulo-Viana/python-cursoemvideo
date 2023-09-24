@@ -1,5 +1,5 @@
-num1 = input('Digite o primeiro valor: ')
-num2 = input('Digite o segundo valor: ')
+num1 = int(input('Digite o primeiro valor: '))
+num2 = int(input('Digite o segundo valor: '))
 
-soma = int(num1) + int(num2)
+soma = num1 + num2
 print(soma)
